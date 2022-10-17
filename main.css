@@ -4,8 +4,5 @@ body{
 @media screen and (max-width: 762px){
     #main img {
         width: auto;
-    }
-    .map{
-        width: auto;
-    }
+  }
 }
